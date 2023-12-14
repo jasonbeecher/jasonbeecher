@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jasonbeecher
-- 👀 I’m interested in golang, linux, oop, building tools, containers, services, APIs, Azure
-- 🌱 I’m currently learning Azure, Docker, and eventually k8s
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in golang, python, linux, oop, building tools and libraries, containers, services, APIs, AWS and GCP
+- 🌱 I’m currently learning AWS, Docker, and eventually k8s
+- 💞️ I’m looking to collaborate on building tools and libraries
+- 📫 How to reach me https://github.com/jasonbeecher (I don't spend much time on social media)
 
 To be edited later!
 
