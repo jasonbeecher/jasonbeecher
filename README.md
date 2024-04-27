@@ -7,7 +7,7 @@
   - 🥚 learning Google Cloud
   - 🥚 experimenting with golang, containers, and architecture 
   - 🥚 refreshing my scripting skills (python and shell)
-  - 🥚 growing my front-end knowledge beyond the foundations
+  - 🥚 growing my front-end knowledge
   - 🥚 revisiting online advertising APIs (a professional interest)
   - 🥚 writing fiction
   - 🥚 learning Spanish
